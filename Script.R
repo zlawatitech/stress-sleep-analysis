@@ -11,7 +11,7 @@ library(knitr)     # For report formatting
 
 # Import SPSS data (replace 'stress_study.sav' with your file)
 ##data <- read_sav("stress_study.sav")
-data <- read_csv("C:\\Users\\zlawa\\OneDrive\\Documents\\sleepVSstress\\StressSleep.csv")
+data <- read_csv("StressSleep.csv")
 
 
 # View variable names and structure
